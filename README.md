@@ -17,6 +17,8 @@ instructions on how to set up you Deej compatible audio controller
 
 
 
+
+
 To have deej open in the background every time you start your computer follow instructions bellow:
 
 1: right click on deej.exe and create shortcut
